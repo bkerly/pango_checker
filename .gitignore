@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+in_pango.csv
+lineage_data.full.json
+not_in_pango.csv
+variants.csv
